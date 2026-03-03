@@ -1,1 +1,2 @@
 "This is the first sentence in the first document in the first project in GitHub created through the Visual Studio Code"
+#Hier ist der Zweite Satz zur Kontrolle, dass das Dokument übertragen wird.
