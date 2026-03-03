@@ -1,2 +1,5 @@
 this is the second file in the project 'DataScientest'.
 
+#this is the update after creating a fork and accpet it. The file from the fork needs to be 
+#git pull origin a_branch
+#to get the new version of the file on the VM.
